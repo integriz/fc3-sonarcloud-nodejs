@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/jest": "^27.4.1",
+    "coverage": "^0.4.1",
+    "sonar-scanner": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
